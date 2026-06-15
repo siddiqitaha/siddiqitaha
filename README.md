@@ -5,11 +5,15 @@ I'm a **Technical Solutions Architect** with 5+ years across **Microsoft Azure**
 
 ### Skills
 - **Cloud**: Microsoft Azure (primary), AWS
-- **AI / MLOps**: RAG pipelines, LLM deployment, LangChain, ChromaDB, Azure ML
+- **AI / MLOps**: RAG pipelines, LLM deployment, LangChain, Ollama, embeddings & vector search, prompt engineering, Gradio, Azure ML
 - **Infrastructure as Code**: Terraform, ARM templates, Ansible
-- **Containers & Orchestration**: Docker, Kubernetes (AKS), Helm
-- **CI/CD**: Azure DevOps, GitHub Actions
-- **Security & IAM**: SSO/SAML, Microsoft Entra ID, Azure Key Vault, RBAC, Authelia, LLDAP
+- **Containers & Orchestration**: Docker, Docker Compose, Kubernetes (AKS), Helm
+- **CI/CD**: Azure DevOps, GitHub Actions, Jenkins
+- **Security & IAM**: SSO/SAML, Microsoft Entra ID, Azure Key Vault, RBAC, Authelia, LLDAP, UFW, Fail2ban
+- **Linux & Self-Hosting**: Linux, Caddy, Cloudflare, Tailscale, Nextcloud, automated backups
+- **Monitoring**: Azure Monitor, Application Insights, alerting, anomaly detection
+- **Databases**: SQLite, ChromaDB, Qdrant, knowledge graphs
+- **Web / Frontend**: React, Vite, Tailwind CSS, JavaScript
 - **Languages**: Python, Bash, PowerShell, HCL, SQL
 
 ### 📜 Certifications
