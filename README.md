@@ -1,7 +1,7 @@
 ## Hi! I'm Taha Siddiqi 👋
 
 ### About Me
-I'm a **Technical Solutions Architect** with 5+ years across **Microsoft Azure** and **AWS** — infrastructure-as-code, Kubernetes, and production AI/RAG pipelines. I build **secure, self-hosted cloud & AI systems** that turn messy, manual operations into clean, automated infrastructure. Based in Doha, Qatar 🇨🇦. Open to architecture, cloud, and AI engineering roles.
+I'm a **Cloud Engineer** with 5+ years across **Microsoft Azure** and **AWS** — building and running secure cloud infrastructure, identity & access, and production AI/RAG systems. Canadian citizen based in Doha 🇨🇦 — **open to Cloud, Solutions, and Systems roles in Canada & the Gulf** (remote or relocation).
 
 ### Skills
 - **Cloud**: Microsoft Azure (primary), AWS
