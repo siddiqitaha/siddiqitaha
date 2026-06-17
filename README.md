@@ -1,7 +1,7 @@
 ## Hi! I'm Taha Siddiqi 👋
 
 ### About Me
-I'm a **Cloud Engineer** with 5+ years across **Microsoft Azure** and **AWS** — building and running secure cloud infrastructure, identity & access, and production AI/RAG systems. Canadian citizen based in Doha 🇨🇦 — **open to Cloud, Solutions, and Systems roles in Canada & the Gulf** (remote or relocation).
+I'm a **Cloud & Systems Engineer** with 5+ years across **Microsoft Azure** and **AWS** — building and running secure cloud infrastructure, identity & access, and production AI/RAG systems. Canadian citizen based in Doha 🇨🇦 — **open to Cloud, Solutions, and Systems roles in Canada & the Gulf** (remote or relocation).
 
 ### Skills
 - **Cloud**: Microsoft Azure (primary), AWS
